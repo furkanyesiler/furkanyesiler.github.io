@@ -1,0 +1,17 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "CV"
+    url: /cv/
+  - title: "Publications"
+    url: /publications/
+  - title: "Projects"
+    url: /projects/
+  - title: "Talks & Teaching"
+    url: /talks-teaching/
+  - title: "Version ID"
+    url: https://furkanyesiler.github.io/musical_version_id_spm/
+
+  #- title: "Contact"
+  #   url: /sitemap/
