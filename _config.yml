@@ -110,8 +110,8 @@ analytics:
 author:
   name             : #"Furkan Yesiler"
   avatar           : /assets/images/photo.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Audio / Music & Machine Learning"
-  location         : "Barcelona, Spain"
+  bio              : "Generative Machine Learning - Audio & Music"
+  location         : "London"
   email            : # "furkan.yesiler@gmail.com"
   links:
     - label: "GitHub"

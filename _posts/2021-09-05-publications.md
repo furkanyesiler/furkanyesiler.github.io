@@ -14,6 +14,11 @@ read_time: false
 
 ## Peer-reviewed conference papers
 
+#### Assessing algorithmic biases for musical version identification.
+<span style="font-size:0.8em;">F. Yesiler, M. Miron, J. Serrà, and E. Gómez.</span>
+<br/><span style="font-size:0.8em;">*Proc. of the ACM International Conference on Web Search and Data Mining (WSDM)*, 2022.</span>
+<br/><span style="font-size:0.8em;">**[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3488560.3498397)**</span>
+
 #### Investigating the efficacy of music version retrieval systems for setlist identification.
 <span style="font-size:0.8em;">F. Yesiler, E.Molina, J. Serrà, and E. Gómez.</span>
 <br/><span style="font-size:0.8em;">*Proc. of the IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP)*, pp. 541-545, 2021.</span>
